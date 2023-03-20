@@ -5,18 +5,22 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <h1>
+          Bienvenidos a mi ecommerce :)
+        </h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/patch_castillo_/?next=%2F"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ingresa con el link  ;)
         </a>
+
+        <p>
+          Página creada por Pastricia F. Castillo
+        </p>
       </header>
     </div>
   );
